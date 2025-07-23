@@ -1,2 +1,2 @@
-# CodSoft
-This is my #codsoft internship Project Repository.
+# CodSoft Task 
+# build simple task with python language
